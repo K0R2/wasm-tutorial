@@ -1,0 +1,6 @@
+[book]
+authors = ["K0R2"]
+language = "en"
+multilingual = false
+src = "src"
+title = "A Tour of WebAssembly"
